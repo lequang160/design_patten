@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="todo">TODO</string>
+    <string name="themes">Themes</string>
+    <string name="base_usd">USD</string>
+    <string name="as_of_november">as of November 28, 2018</string>
+    <string name="option">Options</string>
+    <string name="reverse_currencies">Reverse Currencies</string>
+    <string name="base_currency">Base Currency</string>
+    <string name="quote_currency">Quote Currency</string>
+</resources>
